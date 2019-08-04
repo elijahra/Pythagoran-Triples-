@@ -1,5 +1,4 @@
 # Pythagoran Triples
-* This is an exploratory data science project using the pokemon Data set from Kaggle 
 
 # What I Did 
 * Generated pythagorean Triples 
